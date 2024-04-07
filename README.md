@@ -101,7 +101,8 @@ In order to prepare the data for analysis, then some wrangling was done. This in
 
 **Files:
 
-_prosperLoanData.csv_: Comma Separated Value file that contains the raw data of loans as downloaded from Kaggle
+_prosperLoanData.csv_: Comma Separated Value file that contains the raw data of loans as downloaded from Kaggle. This file is large (~=86MB) and so it is too large to upload. However, the link to download it is https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv.
+
 
 _Part_I_exploration_template.ipynb_: Jupyter notebook that contains the Python code for the exploratory data analysis. This would involve wrangling and cleaning the accessed data.
 
