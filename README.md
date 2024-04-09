@@ -172,3 +172,5 @@ Contributions to this project are welcome. If you have suggestions for improveme
 ## Key Insights for Presentation
 
 > The key insights were to show how loan terms, Prosper Score or Income Range could affect a borrower requesting for a loan or even repaying the loan.
+
+By [Yusuf Sanni] - [yusufsanni2003@yahoo.co.uk]
